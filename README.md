@@ -19,4 +19,4 @@ This is a simple mini project with cute UI from my course where I've build an Pr
 
 ### Connect
 - Website - Connect here
-- Twitter - @ZareenFatima01)
+- Twitter - @ZareenFatima01
