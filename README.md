@@ -1,7 +1,7 @@
 # Product-Modal
 
 ## Overview
-This is a simple mini project with cute UI from my course where I've build an Product Modal Card with HTML and TailwindCSS.
+This is a simple mini project with cute UI from my course where I've build an Product Modal Card using TailwindCSS.
 
 ### Users should be able to:
 
